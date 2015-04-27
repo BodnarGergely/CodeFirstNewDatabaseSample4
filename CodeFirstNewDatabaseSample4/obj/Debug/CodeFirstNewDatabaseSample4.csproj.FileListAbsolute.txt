@@ -1,0 +1,14 @@
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\CodeFirstNewDatabaseSample4.exe.config
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\CodeFirstNewDatabaseSample4.exe
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\CodeFirstNewDatabaseSample4.pdb
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\EntityFramework.dll
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\EntityFramework.xml
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.csprojResolveAssemblyReference.cache
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.Properties.Resources.resources
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.csproj.GenerateResource.Cache
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.exe
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.pdb
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.Migrations.InitialCreate.resources
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample4\obj\Debug\CodeFirstNewDatabaseSample4.Migrations.changePhoneNumber4.resources

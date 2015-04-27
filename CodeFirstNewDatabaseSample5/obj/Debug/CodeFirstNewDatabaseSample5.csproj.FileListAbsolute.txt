@@ -1,0 +1,10 @@
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\CodeFirstNewDatabaseSample5.exe.config
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\CodeFirstNewDatabaseSample5.exe
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\CodeFirstNewDatabaseSample5.pdb
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\EntityFramework.dll
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\EntityFramework.xml
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\obj\Debug\CodeFirstNewDatabaseSample5.exe
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\obj\Debug\CodeFirstNewDatabaseSample5.pdb
+c:\users\gergo\documents\visual studio 2012\Projects\CodeFirstNewDatabaseSample4\CodeFirstNewDatabaseSample5\obj\Debug\CodeFirstNewDatabaseSample5.csprojResolveAssemblyReference.cache
